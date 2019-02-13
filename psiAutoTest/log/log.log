@@ -1,0 +1,60 @@
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:14327.00
+INFO:root:客户订单号：10016839
+INFO:root:冯先凤
+INFO:root:测试账号032
+INFO:root:深圳兴利家具有限公司(8)
+INFO:root:全部（8）
+INFO:root:客户订单(客服BOSS代客下单)下单 10016839
+INFO:root:下单人:测试账号032
+INFO:root:客户姓名:冯先凤
+INFO:root:期望收货时间:2018年01月10日
+INFO:root:pur_orderNum == ord_orderNum
+INFO:root:salePerson == ord_orderSalePerson
+INFO:root:orderOwn == ord_orderOwn
+INFO:root:深圳兴利家具有限公司
+INFO:root:软装公司为:深圳兴利家具有限公司success
+INFO:root:8
+INFO:root:货物数量为:8与预期结果不一致
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:订单没有确认订单，代客下单失败!
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:客户订单号：10019528
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:客户订单号：10019530
+INFO:root:冯先凤
+INFO:root:劳建凯
+INFO:root:testcase 1
+INFO:root:创建aladdin订单
+INFO:root:13253.00
+INFO:root:客户订单号：10019531
+INFO:root:冯先凤
+INFO:root:劳建凯
